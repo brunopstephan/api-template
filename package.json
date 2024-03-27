@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@avantpro/eslint-config": "^1.1.0",
+    "eslint": "^8.57.0",
     "tsup": "^8.0.2",
     "tsx": "^4.7.1",
     "typescript": "^5.4.2",
